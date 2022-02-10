@@ -1,0 +1,43 @@
+.border{
+    border: 3px solid white;
+    max-width: fit-content;
+    margin-left: 34%;
+    margin-top: 10%;
+    padding: 5px;
+    border-radius: 20px;
+    border-top: 2px solid blue;
+    border-left: 2px dotted red;
+    border-right: 2px ridge chartreuse;
+    border-bottom: 2px inset chocolate;
+    background-color: yellow;
+    border: 2px double white;
+    
+}
+*{margin: 0%;
+padding: 0%;
+background-color: black;}
+.c{
+    color: white;
+    border: 3px solid white;
+    border-radius: 10px;
+    max-width: fit-content;
+    padding: 10px;
+    margin: 1px;
+    display: inline-block;
+   
+
+}
+#a2{
+    background-color: silver;
+}
+#a3{
+    background-color: green;
+}
+#a4{
+    background-color:navy;
+}
+
+.in{
+    display: inline;
+}
+
